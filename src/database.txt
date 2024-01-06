@@ -1,0 +1,6 @@
+!nc
+Amun's Calendar
+!ne
+Data Structures Assignment !next This cool project!! !next 2023-05-26 !next 2359 !next 2359
+!ne
+Party !next Time for fun!! !next 2023-06-27 !next 1600 !next 1600
